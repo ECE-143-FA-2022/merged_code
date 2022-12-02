@@ -8,6 +8,10 @@
   ```
   Includes all the third-party packages required.
   ```
+* Final_Presentation_Slides.pdf
+  ```
+  The pdf file of our final slides.
+  ```
 
 ### Environment setup
 The Python version we use is `3.8.5`.
