@@ -10,17 +10,17 @@ pip install notebook==6.4.10
 ```
 
 Install required packages:
-  matplotlib==3.6.2
-  pandas==1.4.4
-  numpy==1.23.1
-  thefuzz==0.19.0
-  ipywidgets==8.0.2
-  plotly==5.11.0
-  kaleido==0.2.1
-  seaborn==0.12.1
-  geopandas==0.12.1
-  mpl-chord-diagram==0.4.0
-  pandas_alive==0.2.3
+  matplotlib==3.6.2<br>
+  pandas==1.4.4<br>
+  numpy==1.23.1<br>
+  thefuzz==0.19.0<br>
+  ipywidgets==8.0.2<br>
+  plotly==5.11.0<br>
+  kaleido==0.2.1<br>
+  seaborn==0.12.1<br>
+  geopandas==0.12.1<br>
+  mpl-chord-diagram==0.4.0<br>
+  pandas_alive==0.2.3<br>
 ```
 pip install -r requirements.txt
 ```
