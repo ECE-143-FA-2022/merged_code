@@ -10,8 +10,12 @@ Includes all the third-party packages required.
 * Final_Presentation_Slides.pdf<br>
 The pdf file of our final slides.
 
-* functions.py
-Code for presentations, imported into war_trends.ipynb
+* Module files containing function and class definitions
+  - alliances.py
+  - diplomacy.py
+  - disputes.py
+  - national_capability.py
+  - trade.py
 
 ### Environment setup
 The Python version we use is `3.8.5`.
@@ -22,7 +26,8 @@ pip install jupyterlab==3.3.2
 pip install notebook==6.4.10
 ```
 
-Install required packages:<br>
+Install the following packages by running `pip install -r requirements.txt`
+
 &emsp;&emsp;matplotlib==3.6.2<br>
 &emsp;&emsp;pandas==1.4.4<br>
 &emsp;&emsp;numpy==1.23.1<br>
@@ -34,9 +39,6 @@ Install required packages:<br>
 &emsp;&emsp;geopandas==0.12.1<br>
 &emsp;&emsp;mpl-chord-diagram==0.4.0<br>
 &emsp;&emsp;pandas_alive==0.2.3<br>
-```
-pip install -r requirements.txt
-```
 
 ### Generating plots
 Run the nodebook `war_trends.ipynb` to plot world-wide war trends. Note that to see the interactive plots in the notebook, one needs to rerun it.
