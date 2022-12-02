@@ -2,7 +2,7 @@
 ### File structure
 * Datasets used:
   ```
-  version4.1_csv, COW-country-codes.csv, Diplomatic_Exchange_2006v1.csv, MIDLOCA_2.1.csv, NMC-60-abridges.csv, National_Import_Export.csv, dyadic_mid_4.02.csv
+  version4.1_csv, COW-country-codes.csv, Diplomatic_Exchange_2006v1.csv, MIDLOCA_2.1.csv, NMC-60-abridged.csv, National_Import_Export.csv, dyadic_mid_4.02.csv
   ```
 * requirement.txt<br>
 Includes all the third-party packages required.
