@@ -9,7 +9,8 @@ pip install jupyterlab==3.3.2
 pip install notebook==6.4.10
 ```
 
-Install required packages:
+Install required packages:<br>
+
   matplotlib==3.6.2<br>
   pandas==1.4.4<br>
   numpy==1.23.1<br>
