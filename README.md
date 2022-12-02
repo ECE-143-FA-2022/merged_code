@@ -4,14 +4,10 @@
   ```
   version4.1_csv, COW-country-codes.csv, Diplomatic_Exchange_2006v1.csv, MIDLOCA_2.1.csv, NMC-60-abridges.csv, National_Import_Export.csv, dyadic_mid_4.02.csv
   ```
-* requirement.txt
-  ```
-  Includes all the third-party packages required.
-  ```
-* Final_Presentation_Slides.pdf
-  ```
-  The pdf file of our final slides.
-  ```
+* requirement.txt<br>
+Includes all the third-party packages required.
+* Final_Presentation_Slides.pdf<br>
+The pdf file of our final slides.
 
 ### Environment setup
 The Python version we use is `3.8.5`.
